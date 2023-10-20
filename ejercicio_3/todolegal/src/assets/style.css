@@ -1,0 +1,88 @@
+.title-video {
+  font-size: 60px;
+  font-weight: bold;
+  color: #187dfb;
+}
+
+.video {
+  height: 500px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.video-subtitle {
+  color: #707070;
+  font-size: 28px;
+}
+
+.link {
+  color: #187dfb;
+  font-weight: bold;
+}
+
+.logo {
+  height: 50px;
+  margin-left: 15px;
+}
+
+.navbar-bg {
+  background-color: #ffffff;
+}
+
+.menu-title {
+  color: #002179;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.plain-text {
+  color: #707070;
+  font-size: 20px;
+}
+
+.upload-image-title {
+  color: #002179;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: justify;
+}
+
+.upload-image-subtitle {
+  color: #5e5e5e;
+  font-size: 20px;
+  font-weight: regular;
+  text-align: justify;
+}
+
+.upload-card {
+  border: #0037cb dashed 4px;
+  border-radius: 50px;
+  background-color: #f4f6fc;
+  width: 500px;
+  height: 230px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+.upload-card-subtitle {
+  font-size: 16px;
+  text-align: center;
+  font-family: Work Sans, sans-serif;
+}
+
+.upload-image {
+  height: 100px;
+}
+
+.warning-text{
+    color:#FF2B56;
+    font-size: 16px;
+    font-weight: regular;
+}
+
+.spacer{
+    height: 100px;
+}
